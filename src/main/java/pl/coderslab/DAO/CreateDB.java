@@ -1,4 +1,4 @@
-package pl.coderslab;
+package pl.coderslab.DAO;
 
 public class CreateDB {
 
